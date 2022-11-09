@@ -1,0 +1,12 @@
+C:\Users\ivan.lojunior\source\repos\EntradaMatrix\EntradaMatrix\bin\Debug\EntradaMatrix.exe.config
+C:\Users\ivan.lojunior\source\repos\EntradaMatrix\EntradaMatrix\bin\Debug\EntradaMatrix.exe
+C:\Users\ivan.lojunior\source\repos\EntradaMatrix\EntradaMatrix\bin\Debug\EntradaMatrix.pdb
+C:\Users\ivan.lojunior\source\repos\EntradaMatrix\EntradaMatrix\obj\Debug\EntradaMatrix.csproj.AssemblyReference.cache
+C:\Users\ivan.lojunior\source\repos\EntradaMatrix\EntradaMatrix\obj\Debug\EntradaMatrix.csproj.SuggestedBindingRedirects.cache
+C:\Users\ivan.lojunior\source\repos\EntradaMatrix\EntradaMatrix\obj\Debug\EntradaMatrix.Form1.resources
+C:\Users\ivan.lojunior\source\repos\EntradaMatrix\EntradaMatrix\obj\Debug\EntradaMatrix.Principal.resources
+C:\Users\ivan.lojunior\source\repos\EntradaMatrix\EntradaMatrix\obj\Debug\EntradaMatrix.Properties.Resources.resources
+C:\Users\ivan.lojunior\source\repos\EntradaMatrix\EntradaMatrix\obj\Debug\EntradaMatrix.csproj.GenerateResource.cache
+C:\Users\ivan.lojunior\source\repos\EntradaMatrix\EntradaMatrix\obj\Debug\EntradaMatrix.csproj.CoreCompileInputs.cache
+C:\Users\ivan.lojunior\source\repos\EntradaMatrix\EntradaMatrix\obj\Debug\EntradaMatrix.exe
+C:\Users\ivan.lojunior\source\repos\EntradaMatrix\EntradaMatrix\obj\Debug\EntradaMatrix.pdb
